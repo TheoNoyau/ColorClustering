@@ -1,0 +1,10 @@
+ca/uqac/colorclustering/clustering/KMeansClustering.class
+ca/uqac/colorclustering/utils/ImageUtils.class
+ca/uqac/colorclustering/ColorClusteringController.class
+ca/uqac/colorclustering/clustering/ManhattanDistance.class
+ca/uqac/colorclustering/ColorClusteringApplication.class
+ca/uqac/colorclustering/clustering/Distance.class
+ca/uqac/colorclustering/Launcher.class
+ca/uqac/colorclustering/clustering/EuclideanDistance.class
+ca/uqac/colorclustering/clustering/DBScanClustering.class
+ca/uqac/colorclustering/clustering/Clustering.class

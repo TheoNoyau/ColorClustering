@@ -1,0 +1,10 @@
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/Launcher.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/utils/ImageUtils.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/ColorClusteringApplication.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/clustering/KMeansClustering.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/clustering/Distance.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/clustering/DBScanClustering.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/clustering/ManhattanDistance.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/clustering/EuclideanDistance.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/clustering/Clustering.java
+/Users/TheoK/Desktop/theoker/uqac/forage-de-donnees/TP2/src/ColorClustering/src/main/java/ca/uqac/colorclustering/ColorClusteringController.java
